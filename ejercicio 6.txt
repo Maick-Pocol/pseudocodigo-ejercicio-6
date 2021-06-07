@@ -1,0 +1,18 @@
+Inicio ejercicio 6.txt
+	Definir edad,promedio
+	Escribir "ingrese edad"
+	Leer edad
+	Si edad >= 25 entonces
+		Escribir " mayor de edad"
+	sino
+		edad <25 entonces
+		Escribir es menor de edad" entonces hacer
+	promedio == (edad >=25) hacer <--edad + n edades >=25 / n veces que se repita >= 25
+	promedio == (edad < 25) hacer <--edad + n edades <25 / n veces que se repita <25
+		Escribir "promedio >"25 y promedio < 25"
+Fin algoritmo
+
+
+	
+	
+	
